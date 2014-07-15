@@ -1,0 +1,11 @@
+facturas:
+	cliente: 
+		nombre
+		rfc
+	emisor:
+		rfc
+		nombre
+		fecha
+			año
+			mes
+			
