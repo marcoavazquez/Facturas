@@ -33,18 +33,15 @@ class main(QWidget):
         self.ruta = QFileDialog(self).getExistingDirectory(self,"Abrir Carpeta")
         self.ruta += '/'
         if self.ruta:
-            self.leerArchivos(self.ruta)
-            self.copiarArchivos()
             self.lbl_ruta.setText("Ruta: %s" % str(self.ruta))
+            self.copiarArchivos()
             print self.ruta
         else:
             self.lbl_ruta.setText("No se ha seleccionado carpeta")
 
-    def leerArchivos(self,ruta):
-        self.arc = os.listdir(ruta)
-
     def copiarArchivos(self):
         rutaServ = "FacturasCopiada/"
+        self.arc = os.listdir(self.ruta)
         for a in self.arc:
             fullruta = self.ruta + a
             if a[len(a)-3:len(a)] == "xml":
@@ -59,8 +56,11 @@ class main(QWidget):
             else:
                 print a + " no es un archivo XML"
 
-    def comprobarPDF(self,nombXml):
-        return nombXml
+    def comprobarPDF(self):
+        for xp in self.arc:
+            if  archivo.pdf == archivo.xml:
+                print "Existe PDF"
+
 
 app_main = main()
 app_main.run()
