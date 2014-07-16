@@ -28,9 +28,9 @@ class Factura():
         self.mes = self.fecha[5:7]
         return self.mes
 
-f = Factura("/home/marco/Dropbox/facturas/AUVI890706GD2_561_CPA0809035MA.xml")
-print "RFC del Emisor: ",f.rfcEmisor()
-print "RFC del Cliente: ",f.rfcCliente()
-print "RFC del Nombre del emisor: ",f.nombreEmisor()
-print "Anho de factura: ",f.anhoFactura()
-print "Mes de factura: ",f.mesFactura()
+#f = Factura("/home/marco/Dropbox/facturas/AUVI890706GD2_561_CPA0809035MA.xml")
+#print "RFC del Emisor: ",f.rfcEmisor()
+#print "RFC del Cliente: ",f.rfcCliente()
+#print "RFC del Nombre del emisor: ",f.nombreEmisor()
+#print "Anho de factura: ",f.anhoFactura()
+#print "Mes de factura: ",f.mesFactura()
