@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="SGP" folio="5301" fecha="2014-02-21T17:38:30" sello="ELaZej9H28hta+PN5jXbBnFwb6JDgelnK25NuZcNQSIStqHCpbmMLwB0kj9BGs7Oon2JWlC3uzti5Bg9AgIK1CUHoolBjx/m68wqh1H/ZY/YQZuuG0efIsydrt2Rk93EC+SENFPVgFi8zJaVD+21zaxGFxMPrfdYD3tL1P8JaFQ=" formaDePago="Pago en una sola exhibición" noCertificado="00001000000202410101" certificado="MIIEkDCCA3igAwIBAgIUMDAwMDEwMDAwMDAyMDI0MTAxMDEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMzAzMTg1MFoXDTE2MTEyMzAzMTg1MFowgdExJjAkBgNVBAMTHVNVUEVSIEdBUyBERSBQT1RSRVJPIFNBIERFIENWMSYwJAYDVQQpEx1TVVBFUiBHQVMgREUgUE9UUkVSTyBTQSBERSBDVjEmMCQGA1UEChMdU1VQRVIgR0FTIERFIFBPVFJFUk8gU0EgREUgQ1YxJTAjBgNVBC0THFNHUDk1MDUwNTQ4QSAvIENBUEU0ODAzMjZDNjAxHjAcBgNVBAUTFSAvIENBUEU0ODAzMjZNVlpSUlMwNjEQMA4GA1UECxMHUG90cmVybzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzpcw1ikfl9AiHiOUDvjMWzElkQ9cr3QWkCN6nXslaTIhJDgRtYlSMSKNDH5hcXEx7w3kDKWWh9iJOUObHYaXz4DFEuo3AqZ0/Q39DiTZV6AfiW4r6zrY9iH9KMMXvOjunMnHlaykAzr0gn+ZGp0RtXJkq5NGEITkgvMOQRUOoTsCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAJNc/AlaHiCdKiqZIsyXTaLEew6yjfcsChCnD1oDBtDVfAK4T+EZd6Gfd/InHU07bZv/rGmeRpIRJFVe+hPuOSiOy8zQLXKOUPOEc/RQgnLnocCUJW8jVrlgcew1TsPMSwaP1z6MriQ1aBTlFqi6t6120uySETu79Gfgdvp1dUg2GD/Ih/nln9TYrPO+fPjsILob5Uk6SGC4UsdMkRmM66bAMES0r/CDNuLnKMJJPW5MkkwLuKV+K6N0HKz4xr+jOxQa/H3DoiRUJy0GwPT5o4ikYVF1PXb+pJoyDhPfmcm2K4o3dUMetAUVgWe+O65+Ztn+a//zruDps9xBhaAdkaU=" condicionesDePago="Contado" subTotal="173.214231" descuento="0" TipoCambio="1" Moneda="MN" total="200.000221" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" LugarExpedicion="VERACRUZ" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="SGP95050548A" nombre="SUPER GAS DE POTRERO SA DE CV">
+    <cfdi:DomicilioFiscal calle="AV. EJERCITO NACIONAL No.1 VILLA GENERAL MIGUEL ALEMAN" noExterior="S/N" noInterior="S/N" colonia="BUENOS AIRES" localidad="ATOYAC" municipio="ATOYAC" estado="VERACRUZ" pais="MÉXICO" codigoPostal="94965" />
+    <cfdi:ExpedidoEn calle="AV. EJERCITO NACIONAL No.1 VILLA GENERAL MIGUEL ALEMAN" noExterior="S/N" noInterior="S/N" colonia="BUENOS AIRES" localidad="ATOYAC" municipio="ATOYAC" estado="VERACRUZ" pais="MÉXICO" codigoPostal="94965" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="HECP760920GE2" nombre="PORFIRIO HERNANDEZ CRUZ">
+    <cfdi:Domicilio calle="AVENIDA MARTIRES 28 DE AGOSTO N.34" colonia="FRANCISCO FERRER GUARDIA" localidad="XALAPA" municipio="XALAPA" estado="VERACRUZ" pais="MEXICO" codigoPostal="91020" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="16.1161" unidad="LITRO" noIdentificacion="32011" descripcion="IVA   16.00  0.00   32011 PEMEX MAGNA" valorUnitario="10.7479" importe="173.214231" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="26.78599">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="26.78599" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="B9C23019-774A-401F-9464-23AE99B4661A" noCertificadoSAT="00001000000301205071" FechaTimbrado="2014-02-21T17:38:37" selloCFD="ELaZej9H28hta+PN5jXbBnFwb6JDgelnK25NuZcNQSIStqHCpbmMLwB0kj9BGs7Oon2JWlC3uzti5Bg9AgIK1CUHoolBjx/m68wqh1H/ZY/YQZuuG0efIsydrt2Rk93EC+SENFPVgFi8zJaVD+21zaxGFxMPrfdYD3tL1P8JaFQ=" selloSAT="LN15B9jOvw4iV0Kc79W77KJvxMDMAAgfLvLt1AXN2ozo0DE1n7cvKr0ytmQ7FT/OXk/wMKfG2G88Feb1H0gQed4emi5+nw7Caxp4484QA33uyDQ3er94WTuhV4qU3e20WCnui+pSn5Gg1lL15IHsQtnrHSlVPzeg6pPMULOBtHU=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
